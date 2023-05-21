@@ -3,7 +3,6 @@
 Faster RCNN implementation with pytorch for windows
 
 
-Open cmd, compile this comands:
 ```c
 cd lib
 python setup.py build develop
